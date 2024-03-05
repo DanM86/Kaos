@@ -1,0 +1,63 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://imgur.com/a/EAvdhy3",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+          "title1": "<TextStyle.Red>Welcome to our Kaos Ark Cluster!</>",
+          "text1": "We're so excited that you found your way on to one of our friendly servers!\n\nThis is just one of the maps available to you on the Kaos Ark Cluster.\n\nWe have one of each of the available Ark Maps, and then a few special maps for things like our Kaos Kritters Shop and Auction House.\n\nClick on the next tab to check out our rules, and then keep clicking if any of our other features might be of particular interest to you.\n\nA lot of the action on this cluster takes place in our discord, so be sure to click below to join that and get in on the action.\n\nAgain, welcome from all the team at Kaos. We hope you have a wonderful time here and enjoy being a part of our community!",
+          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Cluster Rules",
+          "title1": "Gameplay Rules",
+          "title2": "Bannable Behavior",
+          "text1": "1. Make sure you give your character a name! (Human Names are not allowed)\n\n2. You must make a tribe, even if you are a solo player.\n\n3. This is a PVE server - No PVP, griefing, trolling or base invasion will be tolerated\n\n4. We have building restrictions and tame limits to ensure all can enjoy the cluster. Please be sure to check the discord to make sure you know what they all are.",
+          "text2": "Absolutely no Racism, threatening language or non-family friendly chat or names of tames, players or tribes.\n\nUse common sense and everything should be fine.\n\nAgain, check the discord for all the specifics",
+          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 1,
+          "buttontext": "Kaos Kritters",
+          "title1": "Kaos Kritters Shop Map",
+          "text1": "Details Coming Soon!!",
+          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+        }
+      },
+      
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord Link",
+          "url": "https://discord.come/invite/Q8AG7MGqR8"
+        }
+      },
+      {
+        "link2": {
+          "text": "Website Link",
+          "url": "https://www.kaosark.com"
+        }
+      },
+      
+    ]
+  }
+}
