@@ -4,7 +4,7 @@
         "OpenButton": 0,
         "HideIcon": true,
         "HideIconAfter": 60,
-        "IconURL": "https://imgur.com/a/EAvdhy3",
+        "IconURL": "https://i.imgur.com/CKUE98a.png",
         "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -17,56 +17,56 @@
         "tab1": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
-          "title1": "<TextStyle.Red>Welcome to our Kaos Ark Cluster!</>",
+          "title1": "<TextStyle.Violet>Welcome to our Kaos Ark Cluster!</>",
           "text1": "<TextStyle.LightBlue>INTRODUCTION</>\nWe're so excited that you have found your way on to one of our family friendly servers! This is just one of the maps available to you on the Kaos Ark Cluster. In addition to currently having 5 Island Maps, we also have a dedicated shop map called Kaos Kritters.\n\nOur cluster is run by a team of volunteers dedicated to enhancing the player experience. Our servers are boosted, do not wipe and are long term. We enjoy the original ark experience, and as such we use some mods, but continue to maintain the spirit of the game, which includes elements of effort and grind, with some of the quality of life improvements that Mods have to offer.\n\nWelcome again, from all the team at Kaos - we hope you have a wonderful time here and enjoy being a part of our community!\n\n<TextStyle.LightBlue>CURRENCY</>\nBush Berry Seeds are currently our only in game currency. You can find these in drops, beaver dams, alphas and from defeating bosses. Bush Berry seeds can also be obtained from admin run events and purchasable webstore packs. Players use this currency in their player shops, and we also use them for purchases made in our Kaos Kritters Shop for both dinos and items. We also use Golden Saddles that can be redeemed for a Dino Colouring, and Orbs which can be redeemed for a dino at level 300 (Standard Dinos Only). These can both be obtained through events and packs.\n\n<TextStyle.LightBlue>COMMUNITY CENTERS</>\nWe use Community Centers on our maps for the meeting of admin and players, and for a quick, safe log off spot for players. You will also find pick up and drop off rooms where items and dinos are delivered for players. To find the community center, head to any of the obelisks and teleport to the COMMUNITY CENTER\n\n<TextStyle.LightBlue>STARTER KIT</>\nAs a new player, if you have been on our maps for less than 24hrs, you are eligible to choose a starter dino to help get you on your way. To redeem your dino, you need to head over to our discord and put in a starter ticket. Currently you will be able to choose from a Level 300 Pteranodon, Argy or Dolphin\n\n<TextStyle.LightBlue>DISCORD</>\nOn the button below you will find the link to our discord. In our discord you will be able to communicate with players and staff from across the cluster. You will more easily be able to find out and participate in events, ask questions and receive staff support. It is not neccessary to join, but you will find your ark experience greatly enhanced if you do.\n\nDISCORD Link:<RichColor Color=\"1,0,0,1\">https://discord.gg/fqRT8gHmXb</>",
-          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+          "imageurl": "https://i.imgur.com/mE6KZjn.png"
         }
       },
       {
         "tab1": {
           "layout": 1,
           "buttontext": "News",
-          "title1": "<TextStyle.Red>Welcome to our Kaos Ark Cluster!</>",
+          "title1": "<TextStyle.Violet>News</>",
           "text1": "Stay tuned for the latest news on the Cluster.\n\nCOMING SOON: Auctions, Kaos Kritter Shop Map, NIGHTMARE...",
-          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+          "imageurl": "https://i.imgur.com/mE6KZjn.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
           "buttontext": "Rules",
-          "title1": "Gameplay Rules",
-          "title2": "Bannable Behavior",
+          "title1": "<TextStyle.White>Gameplay Rules</>",
+          "title2": "<TextStyle.White>Bannable Behaviour</>",
           "text1": "1. Make sure you give your character a name! (Human Names are not allowed)\n\n2. You must make a tribe, even if you are a solo player.\n\n3. This is a PVE server - No PVP, griefing, trolling or base invasion will be tolerated\n\n4. We have building restrictions and tame limits to ensure all can enjoy the cluster. Please be sure to check the discord to make sure you know what they all are.",
           "text2": "1. Absolutely no Racism, threatening language or non-family friendly chat or names for tames, players or tribes.\n\n2. Use common sense and everything should be fine.\n\n3. Again, check the discord for all the specifics",
-          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+          "imageurl": "https://i.imgur.com/mE6KZjn.png"
         }
       },
       {
         "tab1": {
           "layout": 1,
           "buttontext": "Events",
-          "title1": "<TextStyle.Red>Welcome to our Kaos Ark Cluster!</>",
+          "title1": "<TextStyle.Violet>Events</>",
           "text1": "COMING SOON",
-          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+          "imageurl": "https://i.imgur.com/mE6KZjn.png"
         }
       },
       {
         "tab3": {
           "layout": 1,
           "buttontext": "Kaos Kritters",
-          "title1": "Kaos Kritters Shop Map",
+          "title1": "<TextStyle.Violet>Kaos Kritters Shop Map</>",
           "text1": "Details Coming Soon!!",
-          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+          "imageurl": "https://i.imgur.com/mE6KZjn.png"
         }
       },
       {
         "tab1": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"0,1,0,1\">Rates</>",
-          "title1": "<TextStyle.Red>Welcome to our Kaos Ark Cluster!</>",
+          "title1": "<TextStyle.Violet>Cluster Rates</>",
           "text1": "<TextStyle.LightBlue>CUSTOM DROPS</>\nWHITE DROPS = Starter Gear, PT saddle, flak and tools. Wood Base.\nGREEN DROPS = Taming Gear\nBLUE DROPS = Saddles\nPURPLE DROPS = Player Consumables\nYELLOW DROPS = Metal and Tek Structures, Advanced Tools and Structures\nRED DROPS =  Advanced Weapons, Flak BPs, Tek Armor and Saddles\n\n<TextStyle.LightBlue>BOSS TRIBUTES</>\nTributes for boss fights can be found by killing Wooly Rhinos.\n\n<TextStyle.LightBlue>OTHER SETTINGS\nMax Character Level is 135\nHarvesting is x10\nXP is x15\nTaming is x40\nMating Interval is 0.2\nCuddle is 0.15</>\nMaturing is x20\n\nNo Player Water Drain and Slow Player Food Drain\nBoosted Weight and Boosted Stamina\n\nDino Levels are 300",
-          "imageurl": "https://imgur.com/a/ZGXdVNZ"
+          "imageurl": "https://i.imgur.com/mE6KZjn.png"
         }
       }
     ],
